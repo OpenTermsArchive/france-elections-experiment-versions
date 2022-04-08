@@ -1,17 +1,213 @@
-What information do I need to include in a copyright report to Instagram?
-=========================================================================
+[![](https://static.xx.fbcdn.net/rsrc.php/v3/yt/r/Qsnwn9_aldv.png)
 
-The fastest and easiest way to submit a claim of copyright infringement to us is to use our [online form](https://help.instagram.com/contact/372592039493026). Whether you submit your report through our online form or another method, Instagram needs the following information to be able to process your report:
+Pages d’aide
 
-*   Your complete contact information (full name, mailing address and phone number)\*
-*   A description of the content on our site that you claim infringes your copyright
-*   Information reasonably sufficient to permit us to locate the material on our site. The easiest way to do this is by providing web addresses (URLs) leading directly to the allegedly infringing content. Learn [how to find a URL](https://help.instagram.com/372819389498306).
-*   A declaration that:
-    
-    *   You have a good faith belief that use of the copyrighted content described above, in the manner you have complained of, is not authorized by the copyright owner, its agent, or the law.
-    *   The information in your notice is accurate.
-    *   Under penalty of perjury, you are the owner or authorized to act on behalf of the owner of an exclusive copyright that is allegedly infringed.
-    
-*   Your electronic signature or physical signature.
 
-\*Please note that we regularly provide your name, contact information and the contents of your report to the person who posted the content you are reporting. If you are an authorized representative submitting a report, we provide the name of the organization or client that owns the right in question. You may wish to provide a professional or business email address for this reason.
+
+](https://help.instagram.com/?helpref=hc_global_nav)
+
+[
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y7/r/s59_eF1MYib.png)
+
+](https://help.instagram.com/search/?helpref=hc_global_nav)
+
+[
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yF/r/jSW619-gHrA.png)
+
+](https://help.instagram.com/1417489251945243/?helpref=hc_global_nav)
+
+Quelles informations dois-je inclure dans un signalement de violation des droits d’auteur sur Instagram ?
+
+
+=============================================================================================================
+
+Le moyen le plus rapide et le plus simple de nous envoyer une réclamation pour violation des droits d’auteur consiste à utiliser notre formulaire en ligne. Que vous choisissiez d’envoyer votre signalement par l’intermédiaire de notre formulaire en ligne ou via une autre méthode, Instagram a besoin des informations suivantes pour pouvoir le traiter :
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Vos coordonnées complètes (nom complet, adresse postale et numéro de téléphone)\*.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Une description du contenu sur notre site que vous considérez comme une violation de vos droits d’auteur.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Des informations suffisantes pour nous permettre de localiser ce contenu sur notre site. La manière la plus simple de procéder est de nous fournir les adresses web (URL) menant directement au contenu présumé en infraction. Découvrez comment trouver une URL.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Une déclaration indiquant que :
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Vous estimez en toute bonne foi que l’utilisation faite du contenu protégé décrit ci-dessus, de la façon dont vous l’indiquez, n’est pas autorisée par le titulaire des droits d’auteur, son agent ou la loi.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Les informations fournies dans votre déclaration sont exactes.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Vous déclarez sur l’honneur que vous êtes le titulaire des droits d’auteur exclusifs pour l’œuvre en question ou que vous êtes autorisé(e) à agir au nom de ce dernier.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/Gfv6WsB4dT4.png)
+
+Votre signature manuscrite ou électronique.
+
+\* Notez que dans la majorité des cas, nous fournissons votre nom, vos coordonnées et le contenu de votre signalement à la personne qui a publié le contenu que vous signalez. Si vous envoyez un signalement en tant que représentant agréé, nous indiquons le nom de l’organisation ou du client titulaire des droits en question. Pour cette raison, nous vous conseillons de fournir une adresse e-mail professionnelle ou d’entreprise.
+
+Ça vous a aidé ?
+
+Des améliorations à suggérer ?
+
+N’oubliez pas que ce formulaire est uniquement destiné à recueillir votre avis et que vous ne recevrez pas de réponse. Veuillez ne pas inclure d’informations personnelles sur vous ou quelqu’un d’autre. Découvrez comment effectuer un signalement à Instagram.
+
+Où est le problème ?
+
+Pouvez-vous nous en dire plus ?
+
+N’oubliez pas que ce formulaire est uniquement destiné à recueillir votre avis et que vous ne recevrez pas de réponse. Veuillez ne pas inclure d’informations personnelles sur vous ou quelqu’un d’autre. Découvrez comment effectuer un signalement à Instagram.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y8/r/0whwgFLaZ-v.png)
+
+Merci
+
+Vos commentaires nous aident à améliorer cette réponse pour tous.
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y6/r/YXE7Jq8UHjN.png)
+
+Oui
+
+Non
+
+Envoyer
+
+Envoyer
+
+Les informations ne sont pas claires
+
+La solution ne fonctionne pas
+
+Je n’aime pas le produit ou la politique
+
+Autre
+
+Envoyer
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yu/r/N0alE8krNuM.png)
+
+Articles connexes
+
+
+---------------------
+
+[
+
+Quelles informations dois-je inclure dans un signalement relatif à une marque déposée sur Instagram ?
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
+
+
+
+
+
+](https://help.instagram.com/364771763628260/Quelles+informations+dois-je+inclure+dans+un+signalement+relatif+%C3%A0+une+marque+d%C3%A9pos%C3%A9e+sur+Instagram%C2%A0%3F/?helpref=related_articles&source_cms_id=454257084652404)
+
+[
+
+Comment signaler une violation de droits d’auteur sur Instagram ?
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
+
+
+
+
+
+](https://help.instagram.com/277982542336146/Comment+signaler+une+violation+de+droits+d%E2%80%99auteur+sur+Instagram%C2%A0%3F/?helpref=related_articles&source_cms_id=454257084652404)
+
+[
+
+Comment annuler un signalement de violation de droits de propriété intellectuelle que j’ai déjà envoyé sur Instagram ?
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
+
+
+
+
+
+](https://help.instagram.com/275268756304020/Comment+annuler+un+signalement+de+violation+de+droits+de+propri%C3%A9t%C3%A9+intellectuelle+que+j%E2%80%99ai+d%C3%A9j%C3%A0+envoy%C3%A9+sur+Instagram%C2%A0%3F/?helpref=related_articles&source_cms_id=454257084652404)
+
+[
+
+Quelles informations dois-je inclure dans un signalement en vertu de la loi NetzDG ?
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
+
+
+
+
+
+](https://help.instagram.com/672397529630883/Quelles+informations+dois-je+inclure+dans+un+signalement+en+vertu+de+la+loi+NetzDG%C2%A0%3F/?helpref=related_articles&source_cms_id=454257084652404)
+
+[
+
+Droits d’auteur
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/yM/r/5Rp9sHgmsb1.png)
+
+
+
+
+
+
+
+](https://help.instagram.com/126382350847838/Droits+d%E2%80%99auteur/?helpref=related_articles&source_cms_id=454257084652404)
+
+© 2022 Meta
+
+Af-SoomaaliAfrikaansAzərbaycan diliBahasa IndonesiaBahasa MelayuBasa JawaBisayaBosanskiBrezhonegCatalàCorsuCymraegDanskDeutschEestiEnglish (UK)English (US)EspañolEspañol (España)EsperantoEuskaraFilipinoFrançais (Canada)Français (France)FryskFulaFøroysktGaeilgeGalegoGuaraniHausaHrvatskiIkinyarwandaItalianoIñupiatunKiswahiliKreyòl AyisyenKurdî (Kurmancî)LatviešuLietuviųMagyarMalagasyMaltiNederlandsNorsk (bokmål)Norsk (nynorsk)O'zbekPolskiPortuguês (Brasil)Português (Portugal)RomânăSarduShonaShqipSlovenčinaSlovenščinaSuomiSvenskaTiếng ViệtTürkçeVlaamsZazaÍslenskaČeštinaślōnskŏ gŏdkaΕλληνικάБеларускаяБългарскиМакедонскиМонголРусскийСрпскиТатарчаТоҷикӣУкраїнськакыргызчаҚазақшаՀայերենעבריתاردوالعربيةفارسیپښتوکوردیی ناوەندیܣܘܪܝܝܐनेपालीमराठीहिन्दीঅসমীয়াবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംසිංහලภาษาไทยພາສາລາວမြန်မာဘာသာქართულიአማርኛភាសាខ្មែរⵜⴰⵎⴰⵣⵉⵖⵜ中文(台灣)中文(简体)中文(香港)日本語日本語(関西)한국어
+
+[
+
+À propos de nous
+
+
+
+](https://www.instagram.com/about/us/)
+
+[
+
+API
+
+
+
+](https://www.instagram.com/developer/)
+
+[
+
+Offres d’emploi
+
+
+
+](https://about.instagram.com/about-us/careers/)
+
+[
+
+Conditions générales
+
+
+
+](https://www.instagram.com/legal/terms/)
+
+[
+
+Confidentialité
+
+
+
+](https://help.instagram.com/519522125107875)
+
+![](https://static.xx.fbcdn.net/rsrc.php/v3/y-/r/FG1eOzoMS7V.png)
