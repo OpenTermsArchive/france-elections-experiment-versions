@@ -5,11 +5,11 @@ Politique d’utilisation des données Instagram
 
 ](https://help.instagram.com/811572406418223)
 
-_L’entreprise Facebook Ireland Limited a changé de nom et est devenue Meta Platforms Ireland Limited. Nous avons mis à jour nos Conditions de service, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
+_Le groupe Facebook s’appelle désormais Meta. Nous avons mis à jour nos Conditions d’utilisation, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont l’application Facebook de Meta. Notre Politique d’utilisation des données et nos Conditions de service restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://about.facebook.com/meta) et notre vision du métavers._
 
 **Politique d’utilisation des données**
 
-La présente politique décrit les informations que nous traitons pour assurer le fonctionnement de Facebook, d’Instagram, de Messenger ainsi que d’autres fonctionnalités et produits proposés par Meta Platforms Ireland Limited (les [Produits Meta](https://www.facebook.com/help/1561485474074139?ref=dp) ou les Produits). Vous trouverez des outils et des informations supplémentaires dans les [paramètres de Facebook](https://www.facebook.com/settings) et les [paramètres d’Instagram](https://www.instagram.com/accounts/privacy_and_security/).
+La présente politique décrit les informations que nous traitons pour assurer le fonctionnement de Facebook, d’Instagram, de Messenger ainsi que d’autres fonctionnalités et produits proposés par Meta Platforms, Inc. ([Produits Meta](https://www.facebook.com/help/1561485474074139?ref=dp) ou Produits). Vous trouverez des outils et des informations supplémentaires dans les [paramètres de Facebook](https://www.facebook.com/settings) et les [paramètres d’Instagram](https://www.instagram.com/accounts/privacy_and_security/).
 
 **I. Quels types d’informations recueillons-nous ?**
 ----------------------------------------------------
@@ -20,12 +20,12 @@ Pour fournir les produits Meta, nous devons traiter des informations à votre su
 > 
 > [](#)
 > 
-> *   **Informations et contenus que vous fournissez.** Nous recueillons le contenu, les communications ainsi que d’autres informations que vous fournissez lorsque vous utilisez nos Produits, notamment lorsque vous créez un compte, lorsque vous créez ou partagez du contenu, ou lorsque vous communiquez avec d’autres personnes ou leur envoyez des messages. Cela peut comprendre des informations présentes dans le contenu que vous fournissez (par exemple, des métadonnées) ou concernant un tel contenu, telles que le lieu d’une photo ou la date à laquelle un fichier a été créé. Cela peut également comprendre ce que vous voyez au moyen des fonctionnalités que nous fournissons, telles que notre [appareil photo](https://www.facebook.com/help/162347444215311), de sorte que nous puissions proposer des masques et des filtres que vous pourriez aimer ou vous donner des conseils sur l’utilisation du mode portrait. Nos systèmes traitent automatiquement le contenu et les communications que vous et d’autres fournissez afin d’analyser le contexte et ce qu’ils contiennent aux fins décrites [ci-dessous](#how-we-use-information). Apprenez-en davantage sur la manière de gérer les personnes qui peuvent accéder aux éléments que vous [partagez](https://www.facebook.com/help/1297502253597210?ref=dp).
+> *   **Informations et contenus que vous fournissez.** Nous recueillons le contenu, les communications ainsi que d’autres informations que vous fournissez lorsque vous utilisez nos Produits, notamment lorsque vous créez un compte, lorsque vous créez ou partagez du contenu, ou lorsque vous communiquez avec d’autres personnes ou leur envoyez des messages. Cela peut comprendre des informations présentes dans le contenu que vous fournissez (par exemple, des métadonnées) ou concernant un tel contenu, telles que le lieu d’une photo ou la date à laquelle un fichier a été créé. Cela peut également comprendre ce que vous voyez au moyen des fonctionnalités que nous fournissons, telles que notre [appareil photo](https://www.facebook.com/help/162347444215311), de sorte que nous puissions proposer des masques et des filtres que vous pourriez aimer ou vous donner des conseils sur l’utilisation des formats de l’appareil photo. Nos systèmes traitent automatiquement le contenu et les communications que vous et d’autres fournissez afin d’analyser le contexte et ce qu’ils contiennent aux fins décrites [ci-dessous](#how-we-use-information). Apprenez-en davantage sur la manière de gérer les personnes qui peuvent accéder aux éléments que vous [partagez](https://www.facebook.com/help/1297502253597210?ref=dp).
 >     
->     *   Données bénéficiant de protections spéciales : vous pouvez choisir de fournir des informations dans les [champs de votre profil](https://www.facebook.com/help/353111348061173?ref=dp) Facebook ou dans des évènements marquants à propos de vos croyances religieuses, de vos opinions politiques, des personnes par lesquelles vous êtes « intéressé(e) » ou de votre santé. Ces informations et d’autres (telles que l’origine raciale ou ethnique, les croyances philosophiques ou l’affiliation à un syndicat professionnel) sont soumises à des protections spéciales conformément à la législation européenne.
+>     *   Données bénéficiant de protections spéciales : vous pouvez choisir de fournir des informations dans les [champs de votre profil](https://www.facebook.com/help/353111348061173?ref=dp) Facebook ou dans des évènements marquants à propos de vos croyances religieuses, de vos opinions politiques, des personnes par lesquelles vous êtes « intéressé(e) » ou de votre santé. Ces informations et d’autres (telle que l’origine ethnique, les croyances philosophiques ou l’affiliation à un syndicat professionnel) pourraient être soumises à des protections spéciales conformément à la législation de votre pays.
 >         
 >     
-> *   **Réseaux et connexions.** Nous recueillons des informations sur les personnes, les comptes, les [hashtags](https://help.instagram.com/351460621611097?ref=dp), les groupes et les [Pages](https://www.facebook.com/help/282489752085908?ref=dp) Facebook avec lesquels vous êtes en contact, ainsi que la manière dont vous interagissez avec eux sur nos Produits, par exemple, les personnes avec lesquelles vous communiquez le plus ou les groupes dont vous faites partie. Nous collectons également des coordonnées si vous [choisissez de les télécharger, de les synchroniser ou de les importer à partir d’un appareil](https://www.facebook.com/help/561688620598358?ref=dp) (par exemple, un carnet d’adresses, un journal d’appels ou un historique des SMS), que nous utilisons, par exemple, pour vous aider, vous et d’autres, à trouver des personnes que vous pourriez connaître et à d’autres fins indiquées [ci-dessous](https://help.instagram.com/519522125107875).
+> *   **Réseaux et connexions.** Nous recueillons des informations sur les personnes, les comptes, les [hashtags](https://help.instagram.com/351460621611097?ref=dp), les groupes et les [Pages](https://www.facebook.com/help/282489752085908?ref=dp) Facebook avec lesquels vous êtes en contact, ainsi que la manière dont vous interagissez avec eux sur nos Produits, par exemple, les personnes avec lesquelles vous communiquez le plus ou les groupes dont vous faites partie. Nous collectons également des coordonnées si vous [choisissez de les télécharger, de les synchroniser ou de les importer à partir d’un appareil](https://www.facebook.com/help/561688620598358?ref=dp) (par exemple, un carnet d’adresses, un journal d’appels ou un historique des SMS), que nous utilisons, par exemple, pour vous aider, vous et d’autres, à trouver des personnes que vous pourriez connaître et à d’autres fins indiquées [ci-dessous](#how-we-use-information).
 >     
 > *   **Votre utilisation.** Nous recueillons des informations concernant la manière dont vous utilisez nos Produits, telles que les types de contenu que vous consultez ou avec lesquels vous interagissez, les fonctionnalités que vous utilisez, les actions que vous réalisez, les personnes ou les comptes avec lesquels vous interagissez, et l’heure, la fréquence et la durée de vos activités. Par exemple, nous enregistrons quand vous utilisez et quand vous avez utilisé pour la dernière fois nos Produits, ainsi que les publications, les vidéos ou tout autre contenu que vous visualisez sur nos Produits. Nous recueillons également des informations sur la manière dont vous utilisez des fonctionnalités telles que notre appareil photo.
 >     
@@ -80,7 +80,7 @@ Nous utilisons les informations à notre disposition (en fonction des choix que 
 
 > **Proposer, personnaliser et améliorer nos Produits.**
 > 
-> Nous utilisons les informations à notre disposition pour fournir nos Produits, notamment pour en personnaliser les fonctionnalités et le contenu (notamment vos publicités, votre [Fil d’actualité Facebook](https://www.facebook.com/help/166738576721085?ref=dp), votre [Fil d’actualité Instagram](https://help.instagram.com/1986234648360433?ref=dp) et les Stories Instagram) et pour vous faire des suggestions (comme des groupes ou des [évènements](https://www.facebook.com/help/1076296042409786?ref=dp) susceptibles de vous intéresser ou des sujets que vous pourriez avoir envie de suivre) sur nos [Produits et en dehors](https://www.facebook.com/help/119468292028768?ref=shareable). Pour créer des Produits personnalisés à la fois uniques et pertinents, nous utilisons vos connexions, préférences, centres d’intérêt et activités à partir des données que nous recueillons, des informations que vous ou des tiers nous fournissez et d’autres renseignements (notamment les [données bénéficiant de protections spéciales](#data-special-protections) que vous choisissez de nous donner et pour lesquelles vous avez donné votre consentement explicite) ; nous nous servons également des données sur la façon dont vous utilisez et interagissez avec nos Produits ; ainsi que des données concernant les personnes, lieux ou éléments avec lesquels vous êtes connectés ou qui vous intéressent sur nos Produits et en dehors. Apprenez-en davantage sur notre utilisation des informations à votre sujet afin de personnaliser vos expériences Facebook et Instagram, notamment les fonctionnalités, le contenu et les recommandations figurant dans les Produits Meta. Vous pouvez également en savoir plus sur notre manière de choisir les [publicités](https://www.facebook.com/about/ads) que vous voyez.
+> Nous utilisons les informations à notre disposition pour fournir nos Produits, notamment pour en personnaliser les fonctionnalités et le contenu (notamment vos publicités, votre [Fil d’actualité Facebook](https://www.facebook.com/help/166738576721085?ref=dp), votre [Fil d’actualité Instagram](https://help.instagram.com/1986234648360433?ref=dp) et les Stories Instagram) et pour vous faire des suggestions (comme des groupes ou des [évènements](https://www.facebook.com/help/1076296042409786?ref=dp) susceptibles de vous intéresser ou des sujets que vous pourriez avoir envie de suivre) sur nos [Produits et en dehors](https://www.facebook.com/help/119468292028768?ref=shareable). Pour créer des Produits personnalisés à la fois uniques et pertinents, nous utilisons vos connexions, vos préférences, vos centres d’intérêt et vos activités à partir des données que nous recueillons, des informations que vous ou des tiers nous fournissez et d’autres renseignements (notamment les [données bénéficiant de protections spéciales](#data-special-protections) que vous choisissez de nous communiquer). Nous nous servons également des données concernant votre utilisation de nos Produits et vos interactions avec ceux-ci, ainsi que des données concernant les personnes, les lieux ou les éléments avec lesquels vous êtes connecté(e) ou qui vous intéressent sur nos Produits et en dehors. Apprenez-en davantage sur notre utilisation des informations à votre sujet afin de personnaliser vos expériences Facebook et Instagram, notamment les fonctionnalités, le contenu et les recommandations figurant dans les Produits Meta. Vous pouvez également en savoir plus sur notre manière de choisir les [publicités](https://www.facebook.com/about/ads) que vous voyez.
 > 
 > *   **Informations sur l’ensemble des Produits Meta et des appareils :** nous relions les informations concernant vos activités sur les différents Produits Meta et appareils afin de vous fournir une expérience plus personnalisée et plus cohérente sur l’ensemble des Produits Meta que vous utilisez, quel que soit le support sur lequel vous les utilisez. Par exemple, nous pouvons vous suggérer de rejoindre un groupe Facebook qui rassemble des personnes que vous suivez sur Instagram ou avec qui vous communiquez à l’aide de Messenger. Nous pouvons également faire en sorte que votre expérience soit plus fluide, par exemple en remplissant automatiquement vos informations d’inscription (notamment votre numéro de téléphone) à partir d’un Produit Meta lorsque vous créez un compte sur un autre Produit.
 >     
@@ -206,44 +206,10 @@ Facebook et Instagram partagent leur infrastructure, leurs systèmes et leur tec
   
   
 
-**V. Sur quelle base légale nous appuyons-nous pour traiter les données ?**
----------------------------------------------------------------------------
+**V. Comment puis-je gérer ou supprimer les informations me concernant ?**
+--------------------------------------------------------------------------
 
-Nous collectons, utilisons et partageons les données en notre possession de la manière décrite ci-dessous :
-
-*   dans la mesure nécessaire pour respecter nos [Conditions générales de Meta](https://www.facebook.com/legal/terms/update) ou nos [Conditions générales d’Instagram](https://help.instagram.com/581066165581870?ref=dp) ;
-    
-*   en respectant votre consentement, que vous pouvez révoquer à tout moment par l’intermédiaire des [Paramètres Facebook](https://www.facebook.com/settings) et des [Paramètres Instagram](https://www.instagram.com/accounts/privacy_and_security/) ;
-    
-*   dans la mesure nécessaire pour remplir nos obligations légales ;
-    
-*   pour protéger vos intérêts vitaux ou ceux des autres ;
-    
-*   dans la mesure nécessaire dans l’intérêt du public ;
-    
-*   dans la mesure nécessaire pour nos intérêts légitimes (ou ceux des autres), notamment nos intérêts quant à la fourniture d’un service innovant, personnalisé, sûr et profitable à l’attention de nos utilisateurs et partenaires, sauf si ces intérêts sont supplantés par vos intérêts ou vos libertés et droits fondamentaux exigeant la protection de vos données personnelles.
-    
-
-[En savoir plus](https://www.facebook.com/about/privacy/legal_bases) sur ces bases légales et sur leur lien avec notre façon de traiter les données.
-
-  
-  
-
-**VI. Comment pouvez-vous exercer vos droits prévus par le Règlement général sur la protection des données ?**
---------------------------------------------------------------------------------------------------------------
-
-Conformément au Règlement général sur la protection des données, vous avez le droit de consulter, de rectifier, de transférer et de [supprimer](https://help.instagram.com/contact/448642219041658) vos données. Pour en savoir plus sur ces droits et pour savoir comment vous pouvez exercer vos droits, consultez les [Paramètres Facebook](https://www.facebook.com/settings) et les [Paramètres Instagram](https://www.instagram.com/accounts/privacy_and_security/). Vous avez également le [droit de vous opposer](https://help.instagram.com/contact/1845713985721890) et de restreindre le traitement de vos données. Cela inclut :
-
-*   le droit de vous opposer à ce que nous traitions vos données à des fins de marketing direct, que vous pouvez exercer au moyen du lien « annuler l’abonnement » dans les communications marketing en question ; et
-    
-*   le droit de vous opposer à ce que nous traitions vos données lorsque nous effectuons une mission dans l’intérêt public ou que nous faisons valoir nos intérêts légitimes ou ceux d’un tiers. Vous pouvez exercer ce droit sur Facebook et sur Instagram.
-    
-
-  
-  
-
-**VII. Conservation des données, désactivation et suppression d’un compte**
----------------------------------------------------------------------------
+Nous vous offrons la possibilité de consulter, rectifier, transférer et effacer vos données. Pour en savoir plus, consultez les [Paramètres Facebook](https://www.facebook.com/settings) et les [Paramètres Instagram](https://www.instagram.com/accounts/privacy_and_security/).
 
 Nous conservons les données jusqu’à ce qu’il ne soit plus nécessaire de fournir nos services et nos produits Meta, ou jusqu’à ce que votre compte soit supprimé, selon ce qui se produit en premier. Il s’agit d’une décision au cas par cas qui dépend de facteurs tels que la nature des données, la raison de leur collecte et de leur traitement, et les besoins légaux ou opérationnels de leur conservation. Par exemple, lorsque vous faites une recherche sur Facebook, vous pouvez consulter et supprimer cette recherche de votre historique de recherche à tout moment, mais l’enregistrement de cette recherche n’est supprimé qu’au bout de 6 mois. Si vous envoyez une copie de votre pièce d’identité officielle à des fins de vérification de votre compte, nous supprimons cette copie 30 jours après l’examen, sauf disposition contraire. Apprenez-en plus sur la suppression du [contenu que vous avez partagé](https://www.facebook.com/help/356107851084108?ref=dp) et sur les [données de cookie obtenues au moyen des plugins sociaux](https://www.facebook.com/help/206635839404055?ref=dp).
 
@@ -252,12 +218,12 @@ Lorsque vous supprimez votre compte, nous [supprimons le contenu](https://www.fa
   
   
 
-**VIII. Comment procédons-nous pour répondre aux demandes légales ou éviter tout risque de préjudice ?**
---------------------------------------------------------------------------------------------------------
+**VI. Comment procédons-nous pour répondre aux demandes légales ou éviter tout risque de préjudice ?**
+------------------------------------------------------------------------------------------------------
 
 Nous accédons à vos informations, les conservons et les partageons avec les organismes de réglementation, les autorités judiciaires ou d’autres :
 
-*   Pour répondre à une demande légale, si nous pensons en toute bonne foi que la loi l’exige. Nous pouvons également répondre aux demandes légales lorsque nous pensons en toute bonne foi que la réponse est requise par la loi de cette juridiction, qu’elle affecte des utilisateurs de cette juridiction, et qu’elle est conforme aux normes internationalement reconnues.
+*   pour répondre à une demande légale (telle qu’un mandat de perquisition, une décision de justice ou une assignation à témoin) si nous jugeons en toute bonne foi que la loi nous demande de le faire : cela peut inclure la réponse à des demandes légales provenant de juridictions en dehors des États-Unis, lorsque nous avons toutes les raisons de penser que la réponse est requise par la loi de cette juridiction, qu’elle s’applique aux personnes qui utilisent le service et qui dépendent de cette juridiction et qu’elle est conforme aux normes internationalement reconnues ;
     
 *   Lorsque nous avons des raisons de penser en toute bonne foi que cela est nécessaire pour détecter, empêcher et maîtriser la fraude, l’utilisation non autorisée des Produits, des violations de nos conditions ou règlements, ou toutes autres activités dangereuses ou illégales ; pour nous protéger nous-mêmes (notamment nos droits, notre propriété ou nos Produits), vous ou d’autres, notamment dans le cadre d’enquêtes ou de demandes réglementaires ; ou pour éviter tout décès ou toute blessure corporelle imminente. Par exemple, nous fournissons, le cas échéant, des informations à des partenaires tiers et nous recevons des informations de ces derniers à propos de la fiabilité de votre compte pour prévenir la fraude, les abus ou toute autre activité dommageable sur nos produits et en dehors de nos produits.
     
@@ -267,37 +233,33 @@ Les informations à votre sujet que nous recevons (notamment les données de tra
   
   
 
-**IX. Comment gérons-nous et transférons-nous les données dans le cadre de nos services internationaux ?**
-----------------------------------------------------------------------------------------------------------
+**VII. Comment gérons-nous et transférons-nous les données dans le cadre de nos services internationaux ?**
+-----------------------------------------------------------------------------------------------------------
 
-Nous partageons des informations à l’échelle mondiale, à la fois en interne avec les Entités Meta, et en externe avec nos partenaires et avec les personnes avec lesquelles vous interagissez et partagez du contenu dans le monde entier, conformément à cette politique. Les informations contrôlées par Meta Platforms Ireland Limited seront transférées et transmises, ou stockées et traitées, aux États-Unis ou dans d’autres pays en dehors de celui où vous vivez, aux fins décrites dans la présente politique. Ces transferts de données sont nécessaires pour fournir les services énoncés dans les [Conditions générales de Meta](https://www.facebook.com/legal/terms/) et les [Conditions générales d’Instagram](https://help.instagram.com/581066165581870?ref=dp), et afin d’exploiter et de vous fournir nos Produits dans le monde entier. Nous utilisons des [clauses contractuelles standard](https://www.facebook.com/help/566994660333381?ref=dp) approuvées par la Commission européenne et nous nous appuyons sur les [décisions d’adéquation](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) de la Commission sur certains pays, le cas échéant, pour les transferts de données de l’EEE vers les États-Unis et d’autres pays.
+Nous partageons des informations à l’échelle mondiale, à la fois en interne avec les entités Meta, et en externe avec nos partenaires et avec les personnes avec lesquelles vous interagissez et partagez du contenu dans le monde entier, conformément à cette politique. Vos informations peuvent, par exemple, être transférées ou transmises, stockées ou traitées aux États-Unis ou dans d’autres pays en dehors du pays de votre résidence, aux fins décrites dans la présente politique. Ces transferts de données sont nécessaires pour fournir les services énoncés dans les [Conditions générales de Meta](https://www.facebook.com/legal/terms/) et les [Conditions générales d’Instagram](https://help.instagram.com/581066165581870?ref=dp), et afin d’exploiter et de vous fournir nos Produits dans le monde entier. Nous utilisons [les clauses contractuelles type](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087), nous nous appuyons sur les [décisions d’adéquation](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) de la Commission européenne par rapport à certains pays, le cas échéant, et nous obtenons votre consentement pour ces transferts de données vers les États-Unis et d’autres pays.
 
   
   
 
-**X. Comment procéderons-nous pour vous aviser des modifications apportées à la présente politique ?**
-------------------------------------------------------------------------------------------------------
+**VIII. Comment procéderons-nous pour vous aviser des modifications apportées à la présente politique ?**
+---------------------------------------------------------------------------------------------------------
 
 Nous vous aviserons de toute modification importante apportée à la présente politique et vous donnerons la possibilité de consulter la version révisée avant de continuer à utiliser nos produits.
 
   
   
 
-**XI. Comment nous contacter pour toute question ?**
+**IX. Comment nous contacter pour toute question ?**
 ----------------------------------------------------
 
 Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://help.instagram.com/196883487377501?ref=dp). Pour toute question concernant cette politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
 
-Le responsable de traitement des données pour vos informations est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://help.instagram.com/contact/186020218683230)ou par courrier à l’adresse :  
+Vous pouvez nous contacter [en ligne](https://help.instagram.com/contact/599419887064581) ou par courrier à l’adresse :  
   
-Meta Platforms Ireland Ltd.  
-4 Grand Canal Square  
-Grand Canal Harbour  
-Dublin 2, Irlande  
-  
-[Contacter le délégué à la protection des données de Meta Platforms Ireland Ltd.](https://www.facebook.com/help/contact/540977946302970)  
-  
-Vous avez également le droit de déposer une réclamation auprès de l’autorité de contrôle principale de Meta Platforms Ireland Limited, la Commission irlandaise de Protection des données, ou de votre autorité de contrôle locale.
+Meta Platforms, Inc.  
+À l’attention de : Privacy Operations  
+1601 Willow Road  
+Menlo Park, CA 94025
 
   
   
