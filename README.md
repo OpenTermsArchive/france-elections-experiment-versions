@@ -1,3 +1,5 @@
+**This repository has been used to test a solution described in the [RFC](https://github.com/ambanum/OpenTermsArchive/issues/773) related to multi-page documents tracking. As the experiment is over, it is archived.**
+
 # [Experiment] Open Terms Archive - France Elections services versions
 
  This repository is to be considered as a database only.
